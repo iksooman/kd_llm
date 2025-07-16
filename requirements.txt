@@ -26,4 +26,4 @@ tqdm
 wandb
 deepspeed
 optimum
-vllm
+
